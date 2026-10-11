@@ -23,7 +23,7 @@
 
 ### 📌 Projets à découvrir
 
-- 🎲 **[Examen_M1-GL](https://github.com/ClaudiaSITRAKINIAINA/Examen_M1-GL)** : Implémentation algorithmique des jeux traditionnels malgaches **Fanorona** et **Faritany** en TypeScript.
+- 🎲 **[Jeux_Malagasy](https://github.com/ClaudiaSITRAKINIAINA/Examen_M1-GL)** : Implémentation algorithmique des jeux traditionnels malgaches **Fanorona** et **Faritany** en TypeScript.
 
 ---
 
